@@ -1,0 +1,33 @@
+# User-specific files
+*.user
+*.userprefs
+*.suo
+*.tmp
+*.swp
+*.idea/
+.vscode/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Unity3D specific files
+Library/
+Temp/
+Obj/
+Build/
+BuildReport/
+UserSettings/
+
+# User-generated files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+
+# OS generated files
+.DS_Store
+.AppleDouble
+.LSOverride
